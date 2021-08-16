@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Arteh97.
-- 👀 I’m a student at the Northcoders bootcamp in Manchester.
-- 🌱 I’m currently learning about Node.js, JavaScript, PostgreSQL, Express, HTML, CSS.
-- 💞️ I’m looking to gain the skills to become a full-stack developer.
+- 👀 Trainee Full-stack developer @northcoders Manchester.
+- 🌱 I’m currently learning about Node.js, JavaScript, PostgreSQL, ExpressJS, HTML, CSS.
 - 📫 How to reach me - Artehrush@gmail.com
